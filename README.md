@@ -1,16 +1,68 @@
-## Hi there 👋
+# 👋 Hi, I'm Archana
 
-<!--
-**archana848/archana848** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📊 Data Analyst | Data Enthusiast
 
-Here are some ideas to get you started:
+I am an aspiring Data Analyst passionate about transforming raw data into meaningful insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work with data analysis, visualization and reporting using Excel, Power BI, SQL and Python.
+
+---
+
+## 🛠 Skills
+
+📊 Power BI  
+📗 Microsoft Excel  
+🗄️ SQL / MySQL  
+🐍 Python  
+📈 Pandas  
+📉 Matplotlib  
+🧹 Data Cleaning  
+📊 Data Visualization  
+
+---
+
+## 📂 Projects
+
+### 📊 Nykaa Sales Analysis Dashboard
+
+- Built an interactive sales dashboard using Power BI
+- Analyzed sales trends, revenue and product performance
+- Created visual reports to understand business insights
+
+
+### 📈 Social Media Marketing Campaign Analysis
+
+- Analyzed marketing campaign data using Excel and Power BI
+- Studied reach, engagement and campaign performance
+- Created dashboards for better decision making
+
+
+### 🏥 Hospital Management Analysis
+
+- Created data analysis reports and dashboards
+- Analyzed hospital data and key performance indicators
+- Generated insights from healthcare data
+
+
+---
+
+## 🎯 Currently Learning
+
+- Advanced SQL
+- Python for Data Analysis
+- Tableau
+- Data Analytics Projects
+
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: www.linkedin.com/in/archana-ramesh-
+
+Email: archanaramesh508@gmail.com
+
+
+---
+
+⭐ Thanks for visiting my profile!
